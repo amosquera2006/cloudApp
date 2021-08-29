@@ -1,0 +1,84 @@
+
+
+body  {background-color: #ffffcc;
+	   color: #003300;
+	   font-family: Arial, Helvetica, sans_serif;}
+
+h1    {background-color: #191970;
+	   color: #E6E6FA;
+	   line-height: 200%;
+	   text-align: left;
+	   font-family: Georgia, "Times New Roman", serif;}
+
+h2    {background-color: #ffffcc;
+	   color: #003366;
+	   font-family: Georgia, "Times New Roman", serif;
+	   text-align: left;}
+	
+h3    {background-color: #ffffcc;
+	   color: #006600;
+	   font-family: Georgia, "Times New Roman", serif;
+	   text-align: left;}	
+	
+dd 	  {font-size: smaller; 
+	   font-style: italic;
+	   line-height: 200%;
+	   font-weight: bold;}
+
+.log   {
+	text-align: center;
+        margin-left: auto;
+	margin-right: auto;
+      }
+	
+.header { background-color: #ffffcc;
+                text-align: right;
+		color: #48751a; }
+		
+.nav   {font-weight: bold;
+        font-size: 1.25em;} 
+
+.contact {font-weight: bold;
+		font-size: 0.90em;
+		font-family: Georgia, "Times New Roman", serif; }
+
+#footer {background-color: #dcdcdc;
+		color: #333333;
+		font-style: italic;
+		font-size: .60em;
+        font-family:Georgia, "Times New Roman", serif;}
+		
+#wrapper  { margin-left: auto;
+	        margin-right:auto;
+	        width: 80%;  }	
+
+.main { background-color: #e5e4d7;
+	margin: 10px;
+	border-radius: 5px;
+	padding: 20px;
+	font-size: 110%;
+	height:220px; }
+		
+
+/*		this is a comment 
+			
+p    {font-size: .90em;
+      text-indent: 3em;  }
+
+ul   {font-weight: bold;}
+            
+.feature {color: #ff0000;}
+
+#footer {color: #333333;
+	 font-size: .75em;
+         font-style: italic;}
+
+.companyname {font-weight: bold;
+		font-family: Georgia, "Times New Roman", serif;
+              font-size: 1.25em;}
+
+*/
+
+
+			  
+			  
